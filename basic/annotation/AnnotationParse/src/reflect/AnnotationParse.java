@@ -88,7 +88,6 @@ public class AnnotationParse<@MyAnnotation("类型声明") T> {
 			}
 		}
 
-		// 获取重复注解列表
 
 	}
 
